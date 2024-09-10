@@ -1,4 +1,9 @@
 ## Hi there 👋
+### I am Marclin! 😄
+🤔 I am currently a student at Palawan State University.
+
+📫 You can reach me using:
+G-Mail: marclinabarracoso@gmail.com
 
 <!--
 **m-clin/m-clin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
